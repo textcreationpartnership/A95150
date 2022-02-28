@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a great victory obtained by the Parliament forces in Lincolnshire, under the command of the Lord Willoughby, Colonel Hobart, Colonel Cromwell, Lieutenant Generall Hotham. Declared in severall letters, one from Colonel Cromwell, to Colonel Hobart, dated from Shasten. And another from Master Bridge a minister, to a friend in London. Together with Colonel Hobart his answer to a letter sent him from some gentlemen, who were imprisoned in Crowland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95150</idno>
+            <idno type="STC">Wing T2883A</idno>
+            <idno type="STC">Thomason E104_12</idno>
+            <idno type="STC">ESTC R20867</idno>
+            <idno type="EEBO-CITATION">99867598</idno>
+            <idno type="PROQUEST">99867598</idno>
+            <idno type="VID">155932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155932)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E104[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a great victory obtained by the Parliament forces in Lincolnshire, under the command of the Lord Willoughby, Colonel Hobart, Colonel Cromwell, Lieutenant Generall Hotham. Declared in severall letters, one from Colonel Cromwell, to Colonel Hobart, dated from Shasten. And another from Master Bridge a minister, to a friend in London. Together with Colonel Hobart his answer to a letter sent him from some gentlemen, who were imprisoned in Crowland.</title>
+                  <author>Bridge, William, 1600?-1670.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Allen, in Popes Head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 27, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Hotham, John, d. 1645 Jan. 1.</term>
+               <term>Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</term>
+               <term>Lincolnshire (England) --  History, Military. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155932:1" rendition="simple:additions"/>
+            <p>A TRAVE RELATION OF A great Victory obtained by the Parliament forces in Lincolnſhire, under the Command of the Lord <hi>Willoughby,</hi> Colonel <hi>Hobart,</hi> Colonel <hi>Cromwell,</hi> Li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<g ref="char:EOLhyphen"/>tenant Generall <hi>Hotham.</hi>
+            </p>
+            <p>
+               <hi>Declared in ſeverall Letters,</hi> One from Colonel <hi>Cromwell,</hi> to Colonel <hi>Hobart,</hi> Dated from <hi>Shasten.</hi>
+            </p>
+            <p>And another from Maſter <hi>Bridge</hi> a Miniſter, to a Friend in <hi>London.</hi>
+            </p>
+            <p>TOGETHER With Colonel <hi>Hobart</hi> his Anſwer to a Letter ſent him from ſome Gentlemen, who were impriſoned in CROWLAND.</p>
+            <p>LONDON, Printed for <hi>Benjamen Allen,</hi> in Popes Head Alley.</p>
+            <p>MAY 27, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155932:2"/>
+            <pb n="1" facs="tcp:155932:2"/>
+            <head>A Letter from Collonell <hi>Cromwell</hi> to Collonell <hi>Hobart</hi> from <hi>Shaſten.</hi>
+            </head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He god of glory hath given us this evening a glorious victory over our enemies, they were as we are enformed one and twentie Co<g ref="char:EOLhyphen"/>lours of horſe troopes, and three or foure of dragoones: it was late<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the evening when we drew out, they came and faced us within two miles of the town, ſo ſoon as we had the alarum we drew out our forces, conſiſting of about twelve troops, whereof ſome of them ſo poore and broken that you ſhall ſeldome ſee worſe; with this handfull it pleaſed God to caſt the ſcale, for after we had ſtood a little above musket ſhot the one body from the other, and the Dragooners having fired on both ſides for the ſpace of halfe an houre or more, they not advan<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g
+<pb n="2" facs="tcp:155932:3"/> towards us we agreed (being thereunto en<g ref="char:EOLhyphen"/>abled by the great God of heaven) to charge them, and advancing the body after many ſhootes on both ſides, came with our troopes a pretty round trot, they ſtanding firme to receive us, and our men chargeing feircely upon them, they were imediately rowted and rann all away, and wee had the execution of them two or three miles; I beleive ſome of our ſouldiers did kill two or three men a pece, my youngeſt corporall killed foure with his owne hand give glory to God, give glory, let all that know God, ſay, the Lord be pravſed; we have gotten ſome of their officers, and ſome of their Colors, but what the number of dead is, or what the pri<g ref="char:EOLhyphen"/>ſoners, wee know not, but great is the goodnes of God to us.</p>
+            <closer>
+               <signed>
+                  <hi>Shaſten,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>
+                  <pb n="3" facs="tcp:155932:3"/>Good Friend.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt to you Gods providence hath led mee into the feil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I ſhall there<g ref="char:EOLhyphen"/>fore give you an account of ſuch paſſa<g ref="char:EOLhyphen"/>ges as I met there: on ſatterday laſt I came to <hi>Sleveford</hi> in <hi>Lincolneſhire</hi> where Colonell Sir <hi>Miles Hobart</hi> was quartered with his <hi>Norfolk</hi> forces to miles from <hi>Grantham</hi> where Leivtenant Generall <hi>Hotham,</hi> the Lord <hi>Willoughby,</hi> and Col<g ref="char:EOLhyphen"/>lonell <hi>Cromwell</hi> lay with divers troopes of horſe. And on Satterday, it was noyſed that the enemy was upon his march towards us with ſome thouſands of horſe and foot. Our men therefore did provide for them, and expecting that they ſhould have fallen upon our quarter, the Col. and Captains went their rounds all the night; but the enemy gave his Alarum to <hi>Grantham,</hi> where they were bravely encountred, they drew towards <hi>Grantham</hi> about 8 a clock in the evening our men all mounted in a ſhort time &amp; drew out into the feild, the commander in cheife com<g ref="char:EOLhyphen"/>manded our men that they ſhould not give fire till they came within halfe piſtoll ſhot of the ene<g ref="char:EOLhyphen"/>my, which being done, it was ſo dreadfull a charge, that the enemy were immediately rou<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:155932:4"/> and fled for their lives; as you may read in this letter which was ſent from Collonell <hi>Cromwell</hi> to Collonell <hi>Hobart</hi> thus. Noble Sir the God of glory hath given us &amp;c.</p>
+            <p>Whereby you ſee how God hath bleſſed this our aſſociation for there went into <hi>Lincolnſhire</hi> but two Regiments at firſt (though more are going dayly) Col. <hi>Cromwells</hi> of horſe, and Col. <hi>Hobarts</hi> of foot and both of them ſeverally, the great God hath done great things by <hi>Crowland</hi> beeing taken in by Col. <hi>Hobart,</hi> and this victory attayned through Gods bleſſing by Col. <hi>Cromwells</hi> troops, Whoſe men fought like dragons, you have heard of the goodneſſe and valor of Col. <hi>Cromwell,</hi> Col. <hi>Hobart</hi> alſo is a brave gallant gentleman, whoſe reſolution you may read in theſe few lines of his, which he ſent in anſwer to ſome Gentlemen that were impriſoned in <hi>Crowland</hi> and were en<g ref="char:EOLhyphen"/>forced by the Cavaliers there to write thus to him.</p>
+            <p>Honour'd Sir, the lamentable cryes of the wo<g ref="char:EOLhyphen"/>men and children in this miſerable town of <hi>Crow<g ref="char:EOLhyphen"/>land,</hi> moves our heart with much compaſſion to<g ref="char:EOLhyphen"/>wards them, in regard whereof wee are humbly bold to intreat that a Parley may be admitted, and
+<pb n="5" facs="tcp:155932:4"/> that you will be pleaſed to cauſe a Ceſſation of Arms til Propoſitions ſhal be preſented unto you, and to grant a ſafe conduct to the Meſſenger. Thus beſeeching the God of Peace, to give his bleſſing we reſt</p>
+            <closer>
+               <dateline>Two a clock this Friday morning.</dateline>
+               <signed>
+                  <list>
+                     <head>Your humble Servants,</head>
+                     <item>John Harrington.</item>
+                     <item>Robert Ram.</item>
+                     <item>William Slater.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Colonel <hi>Hobarts</hi> Anſwer follows.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>IT is one of our principall ends to relieve you, and, by Gods aſsiſtance wee will do it or die; But ile make your Captain ſpeake your language, and deliver you whom he baſely ſurprized, and if he forthwith doe it not, ile ſpare neither man, woman nor child: the un<g ref="char:EOLhyphen"/>worthy detection of Captain</hi> Dodſons <hi>Drummer, con<g ref="char:EOLhyphen"/>trary to the Law of Arms deſerves no mercy but if you will refer your ſelues to me, Ile doe that which befits a Chriſtian and a Gentleman, otherwiſe there is nothing to be expected but the totall ruine of Town and people. So Ireſt,</hi>
+            </p>
+            <closer>
+               <signed>Your affectionate friend, Miles Hobart.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:155932:5"/>
+            <p>BOth theſe b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave Colonels are now met, I hope at <hi>Lincoln;</hi> for on Tueſday laſt Colonel <hi>Hobart</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to march thither, &amp; if the Enemy (who for this ſervice had drawn out all his ſpe<g ref="char:EOLhyphen"/>ciall Forces from <hi>Gainsborough</hi> and <hi>Newark)</hi> were not able to ſtand before part, I hope h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall ne<g ref="char:EOLhyphen"/>ver be able to ſtand before all: its thought our men are 6000 or 7000 by this time at <hi>Lincolne.</hi> In the Army there is good Diſcipline, men pu<g ref="char:EOLhyphen"/>niſhed for ſwea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, drunkenneſſe, and ſtealing: I was many meals with them, and never heard an oath ſworn by any of the Captains or Officers. I ſaw one ſouldier whipt moſt ſeverely for thie<g ref="char:EOLhyphen"/>ving. <hi>Boſton</hi> was very loving to our ſouldiers, ſending in much proviſion, the train Bands of the County came in from al parts, ſo that through the prayers of good people, I hope, that County will be ſoon ſetled in peace, which the Lord grant unto all other Counties in his due time. I reſt,</p>
+            <closer>
+               <signed>Yours William Bridge.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
